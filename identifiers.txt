@@ -1,0 +1,6 @@
+Address for x = 0040ea60
+Address for y = 0040ea62
+Address for a = 0040ea64
+Address for b = 0040ea66
+Address for x = 0040ea60
+Address for x = 0040ea60
